@@ -12,52 +12,54 @@ versicolor = ifds_groupby.get_group("Iris-versicolor") # use 'versicolor' for al
 virginica = ifds_groupby.get_group("Iris-virginica") # use 'virginica' for all iris species that are called 'Iris-virginica' in the excel file.
 
 
-column_name = "sepal length" # Only data in the column 'sepal length' will be used for this histogram
-plt.title(column_name) # Automatically use the entered value for column name as the title.
-# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'column name'.
+feature = "sepal length" # Only data from the "sepal length" column will be used for this histogram.
+plt.title(feature) # Automatically use the entered value for feature as the title.
+# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'feature'.
 plt.xlabel( "Centimeters")
-y1 = setosa[column_name] # Use the data from all setosa flowers and the entered column name as y1
-y2 = versicolor[column_name]
-y3 = virginica[column_name]
+y1 = setosa[feature] # Use the data from all setosa flowers and the entered feature as y1
+y2 = versicolor[feature]
+y3 = virginica[feature]
 plt.hist(y1) # Plot the histogram for y1. No need to use bins, as they are automatically done right.
 plt.hist(y2)
 plt.hist(y3)
 plt.show()
 
-# To do the same for 'sepal width', 'petal length', or 'petal width' data, just change the input for column name, as shown below.
+# To do the same for 'sepal width', 'petal length', or 'petal width' data, just change the input for feature, as shown below.
 
-column_name = "sepal width" # Only data in the column 'sepal length' will be used for this histogram
-plt.title(column_name) # Automatically use the entered value for column name as the title.
-# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'column name'.
+feature = "sepal width" # Only data from the "sepal width" column will be used for this histogram.
+plt.title(feature) # Automatically use the entered value for feature as the title.
+# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'feature'.
 plt.xlabel( "Centimeters")
-y1 = setosa[column_name] # Use the data from all setosa flowers and the entered column name as y1
-y2 = versicolor[column_name]
-y3 = virginica[column_name]
+y1 = setosa[feature] # Use the data from all setosa flowers and the entered feature as y1
+y2 = versicolor[feature]
+y3 = virginica[feature]
 plt.hist(y1) # Plot the histogram for y1. No need to use bins, as they are automatically done right.
 plt.hist(y2)
 plt.hist(y3)
 plt.show()
 
-column_name = "petal length" # Only data in the column 'sepal length' will be used for this histogram
-plt.title(column_name) # Automatically use the entered value for column name as the title.
-# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'column name'.
+feature = "petal length" # Only data from the "petal length" column will be used for this histogram.
+plt.title(feature) # Automatically use the entered value for feature as the title.
+# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'feature'.
 plt.xlabel( "Centimeters")
-y1 = setosa[column_name] # Use the data from all setosa flowers and the entered column name as y1
-y2 = versicolor[column_name]
-y3 = virginica[column_name]
+y1 = setosa[feature] # Use the data from all setosa flowers and the entered feature as y1
+y2 = versicolor[feature]
+y3 = virginica[feature]
 plt.hist(y1) # Plot the histogram for y1. No need to use bins, as they are automatically done right.
 plt.hist(y2)
 plt.hist(y3)
 plt.show()
 
-column_name = "petal width" # Only data in the column 'sepal length' will be used for this histogram
-plt.title(column_name) # Automatically use the entered value for column name as the title.
-# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'column name'.
+feature = "petal width" # Only data from the "petal width" column will be used for this histogram.
+plt.title(feature) # Automatically use the entered value for feature as the title.
+# This way, when you want to plot a histogram for the sepal width for instance, you only have to change the input for 'feature'.
 plt.xlabel( "Centimeters")
-y1 = setosa[column_name] # Use the data from all setosa flowers and the entered column name as y1
-y2 = versicolor[column_name]
-y3 = virginica[column_name]
+y1 = setosa[feature] # Use the data from all setosa flowers and the entered feature as y1
+y2 = versicolor[feature]
+y3 = virginica[feature]
 plt.hist(y1) # Plot the histogram for y1. No need to use bins, as they are automatically done right.
 plt.hist(y2)
 plt.hist(y3)
 plt.show()
+
+# Used: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html to learn about groupby function
