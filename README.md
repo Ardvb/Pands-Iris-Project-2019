@@ -96,7 +96,7 @@ I have also plotted histograms of the other features with virtually the same cod
 ![image](https://user-images.githubusercontent.com/47186083/56309163-e2a86a00-6140-11e9-9cbb-e8bbbf8f58ba.png)
 ![image](https://user-images.githubusercontent.com/47186083/56309171-e76d1e00-6140-11e9-9b1e-01df2a5af9df.png)
 
-Here we can start to see clearly that especially the petal length and width of the Iris setosa is much smaller (and shorter) than the other two species.
+Here we can start to see clearly that especially the petal length and width of the Iris setosa is much shorter than the other two species.
 
 Another interesting and suitable way of visualizing if the swarmplot. With the swarmplot, you can tell the difference in the blink of an eye.
 
