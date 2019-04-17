@@ -179,9 +179,9 @@ Another interesting and suitable way of visualizing if the swarmplot, than can b
 
 And the other features:
 
-![image](https://user-images.githubusercontent.com/47186083/56309442-7ed27100-6141-11e9-976c-92d4d5e148d5.png)
-![image](https://user-images.githubusercontent.com/47186083/56309456-84c85200-6141-11e9-8782-4e006e7b7fa5.png)
-![image](https://user-images.githubusercontent.com/47186083/56309473-8abe3300-6141-11e9-84b8-4b35191ff71f.png)
+![image](https://user-images.githubusercontent.com/47186083/56324986-73df0700-6168-11e9-9572-4c271c8b7b4a.png)
+![image](https://user-images.githubusercontent.com/47186083/56324992-7ccfd880-6168-11e9-959c-6da6f77eac00.png)
+![image](https://user-images.githubusercontent.com/47186083/56325001-85c0aa00-6168-11e9-97ba-a883c7956d56.png)
 
 As we can see, the setosa is clearly smaller than the other two species (except for the sepal width), and virginica is the largest for 3 out of 4 features (sepal length, petal length and petal width). 
 The best way to try and distinguish the virginica from the versicolor, is by looking at petal length and petal width, which are larger. However, there is still some overlap and the difference is not as pronounced as that between between setosa and the other 2 species.
