@@ -116,7 +116,7 @@ First I wanted to get a good look at the data set by visualizing some basic feat
 
 By reading the Iris data set Excel file into my program I am able to project in onto the screen using cmder. 
 
-Now we can start looking into what some of the more interesting features of the data set. By using the _.describe_ command, I can see lots of useful information, such as the mean, the standard deviation, the minimum and maximum etc.
+Now we can start looking into some of the more interesting features of the data set. By using the _.describe_ command, I can see lots of useful information, such as the mean, the standard deviation, the minimum and maximum etc.
 
 
 ![image](https://user-images.githubusercontent.com/47186083/56310349-9dd20280-6143-11e9-85b8-de1e17f8b4e5.png)
