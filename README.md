@@ -70,7 +70,7 @@ British statistician and biologist Ronald Fisher used this dataset to develop a 
 Ronald Fisher is one of the most celebrated statisticians of all time. 
 He is described as “a genius who almost single-handedly created the foundations for modern statistical science”.
 The data set has some key features that make it very useful in all sorts of data analytics, from data visualisation to machine learning.
-It is small, but not trivial. It consists of real data of good quality. 
+It is small, but not trivial. It consists of real, good quality, data.
 The goal of the dataset, to discriminate between three species of Iris, based on measurements is simple, yet challenging.
 Also, the fact someone as famous as Ronald Fisher used the dataset makes it more interesting to a lot of statisticians.
 No wonder it is one of the most used data sets in the world of statistics.
