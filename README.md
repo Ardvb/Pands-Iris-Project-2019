@@ -208,17 +208,16 @@ To visualize these correlations, I have chosen to use the scatterplot. I have pl
 ![image](https://user-images.githubusercontent.com/47186083/56313183-e42a6000-6149-11e9-84f5-b2dad7d2a85b.png)
 
 Here we see some interesting things. For instance, looking at the correlation between sepal length and petal length, the Iris setosa has none or very little correlation, whereas the other two species both have a strong linear correlation. Something similar can be seen, to a slightly lesser extent, in all but one of the plots. Only in the sepal length and sepal width correlation does the Iris setosa have a linear correlation, where the other two species correlate in a linear way more or less in all 6 plots.
-When looking at the correlation between petal length and petal width
-Overall the Iris virginica seems to correlate in a slightly more linear way compared to the Iris versicolor, but this is not enough to clearly distinguish between the two. 
+Overall the Iris virginica seems to correlate in a slightly more linear way (especially when looking at the sepal length and petal length correlation) compared to the Iris versicolor, but this is not enough to clearly distinguish between the two. 
 
 
 ## 3. Conclusions and summary
 
-Looking at all data, and data visualizations, I have used for this analysis, a few conclusions can be drawn.
+Looking at all data, and data visualizations, a few conclusions can be drawn.
 First of all, it is an interesting data set. To distinguish between the setosa and the other two species was easy, but to differentiate between virginica and versicolor was very challenging. Even though it is quite easy to see in the histograms, that the virginica has, in general, taller features than the versicolor species, there was some overlap.
 Therefore I tried to find a defining feature to seperate the two, by looking at correlations between the different features. Here I encountered the same phenomenon. A difference in size, but not definitive enough to tell which is which from the measurements alone.
 
-I learned a lot about visualizing data, and especially the seaborn library was a real eye-opener for me. Very easy to split the data and produce good looking plots.
+I learned a lot about analyzing and visualizing data, and especially the seaborn library was a real eye-opener for me. Very easy to split the data and produce good looking plots.
 
 
 ## 4. References
