@@ -1,4 +1,8 @@
-# Pands-Iris-Project-2019
+# Pands-Project-2019
+
+## Analysis of Fisher's Iris Data Set
+
+### Author: Ard van Balkom
 
 This repository contains my research on Fisher's Iris data set, as well as my documentation and code based on this research.
 
