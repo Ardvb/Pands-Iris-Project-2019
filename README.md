@@ -30,3 +30,34 @@ It is small, but not trivial. It consists of real data of good quality.
 The goal of the dataset, to discriminate between three species of Iris, based on measurements is simple, yet challenging.
 Also, the fact someone as famous as Ronald Fisher used the dataset makes it more interesting to a lot of statisticians.
 No wonder it is one of the most used data sets in the world of statistics.
+
+## My research
+
+I have written Python code to try and find some interesting information about this data set.
+First I wanted to get a good look at the data set by visualisizing some basic features.
+
+![image](https://user-images.githubusercontent.com/47186083/56307904-d7077400-613d-11e9-8ab2-b6ba6d73b547.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56307945-f1415200-613d-11e9-9929-1df4cd1d4d79.png)
+
+By reading the Iris data set Excel file into my program I am able to project in onto the screen using cmder. 
+
+Now we can start looking into what some of the more interesting features of the data set. By using the _.describe_ command, I can see lots of useful information, such as the mean, the standard deviation, the minimum and maximum etc.
+
+![image](https://user-images.githubusercontent.com/47186083/56308155-79bff280-613e-11e9-9fee-c7298f2e96c3.png)
+![image](https://user-images.githubusercontent.com/47186083/56308155-79bff280-613e-11e9-9fee-c7298f2e96c3.png)
+
+By using the _.median_ and _.mode_ commands, I am able to see what the median(the number that is halfway into the set) and the mode(most frequently occurring number).
+
+![image](https://user-images.githubusercontent.com/47186083/56308302-e1763d80-613e-11e9-8d34-25080d535d7b.png)
+![image](https://user-images.githubusercontent.com/47186083/56308312-eb983c00-613e-11e9-8410-928ffaf52bdd.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56308322-f357e080-613e-11e9-9032-a8f317597a0a.png)
+![image](https://user-images.githubusercontent.com/47186083/56308335-f9e65800-613e-11e9-91c5-043c36688957.png)
+
+### The differences between the species
+
+The next step was to seperate the species by only comparing the data from each species to the others.
+I wrote some simple code to only display the data of 'Iris setosa':
+
+![image](https://user-images.githubusercontent.com/47186083/56308459-45990180-613f-11e9-9bd5-ef3284493405.png)
