@@ -40,6 +40,7 @@ The goal of the dataset, to discriminate between three species of Iris, based on
 Also, the fact someone as famous as Ronald Fisher used the dataset makes it more interesting to a lot of statisticians.
 No wonder it is one of the most used data sets in the world of statistics.
 
+
 ## 2. Analysis of Iris data set
 
 ### 2.1 Libraries used
@@ -62,6 +63,7 @@ I found this library to be easy to use and used it to plot swarmplots and scatte
 
 Pandas is a library providing high-performance, and easily usable data structures and data analysis tools for Python.
 I have used it to read in the excel file containing the Iris date set, amongst other things.
+
 
 ## 3. Coding and data visualization
 
@@ -116,6 +118,7 @@ I have done the same for both other species. However, the differences between th
 From looking at this data, we can already spot some differences between the species. Especially between Iris setosa and the other two.
 However, to make it even easier to see, I have plotted some histograms and other plots.
 
+
 ### 3.2.1 Histograms
 
 First I have plotted a histogram of the sepal length of all three species using the matplotlib.pyplot library. With the sepal length in centimeters on the x-axis, and the frequency on the y-axis.
@@ -131,6 +134,7 @@ I have also plotted histograms of the other features with virtually the same cod
 ![image](https://user-images.githubusercontent.com/47186083/56309171-e76d1e00-6140-11e9-9b1e-01df2a5af9df.png)
 
 Here we can start to see clearly that especially the petal length and width of the Iris setosa is much shorter than the other two species.
+
 
 ### 3.2.2 Swarmplots
 
@@ -149,6 +153,7 @@ And the other features:
 As we can see, the setosa is clearly smaller than the other two species (except for the sepal width), and virginica is the largest for 3 out of 4 features (sepal length, petal length and petal width). 
 The best way to try and distinguish the virginica from the versicolor, is by looking at petal length and petal width, which are larger. However, there is still some overlap and the difference is not as pronounced as that between between setosa and the other 2 species.
 
+
 ### 3.2.3 Possible correlations, visualized in scatterplots
 
 To further try to differentiate between virginica and versicolor, I have looked at possible correlations in any of the 4 measured features.
@@ -166,6 +171,7 @@ To visualize these correlations, I have chosen to use the scatterplot. I have pl
 Here we see some interesting things. For instance, looking at the correlation between sepal length and petal length, the Iris setosa has none or very little correlation, whereas the other two species both have a strong linear correlation. Something similar can be seen, to a slightly lesser extent, in all but one of the plots. Only in the sepal length and sepal width correlation does the Iris setosa have a linear correlation, where the other two species correlate in a linear way more or less in all 6 plots.
 When looking at the correlation between petal length and petal width
 Overall the Iris virginica seems to correlate in a slightly more linear way compared to the Iris versicolor, but this is not enough to clearly distinguish between the two. 
+
 
 ## 4. Conclusions and summary
 
