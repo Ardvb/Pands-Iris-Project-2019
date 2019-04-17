@@ -7,11 +7,11 @@ import pandas as pd
 ifds = pd.read_excel("iris.xls", usecols=4) #Read the file 'ifds' into the program and only use columns 0-4.
 
 # Learned how to do this at: https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
-
-# by entering print(iris), we are now able to print the entire table of data.
+print(ifds)
+# by entering print(ifds), we are now able to print the entire table of data.
 
 print()
-print(round(ifds.describe(),2)) # This displays a quick summary of the data (mean, min and max amongst others). I round it to 2 decimals, because it looks better.
+print(round(ifds.describe(),2)) # This displays a quick summary of the data (mean, min and max amongst others). Round it to 2 decimals, because it looks better.
 print() # Print an empty line, to make it look a bit more presentable.
 
 print("Median:")
@@ -23,7 +23,7 @@ print()
 print(ifds.mode())  # Display the mode of all data.
 print()
 
-setosa = ifds[ifds.iris == "Iris-setosa"] # Only show data for the species "setosa", by only using the rows with "Iris-setosa" in them.
+setosa = ifds[ifds.Species == "Iris-setosa"] # Only show data for the species "setosa", by only using the rows with "Iris-setosa" in them.
 # Used https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas as inspiration.
 
 print("Iris setosa:")
@@ -41,7 +41,7 @@ print()
 print(setosa.mode()) # Diplay the mode of all data of the species "setosa".
 print()
 
-versicolor = ifds[ifds.iris == "Iris-versicolor"] # Do the same for the species "versicolor"
+versicolor = ifds[ifds.Species == "Iris-versicolor"] # Do the same for the species "versicolor"
 
 print("Iris versicolor:")
 print()
@@ -57,7 +57,7 @@ print()
 print(versicolor.mode())
 print()
 
-virginica = ifds[ifds.iris == "Iris-virginica"] # Do the same for the species "virginica"
+virginica = ifds[ifds.Species == "Iris-virginica"] # Do the same for the species "virginica"
 
 print("iris virginica:")
 print()
