@@ -123,6 +123,5 @@ To visualize these correlations, I have chosen to use the scatterplot. I have pl
 ![image](https://user-images.githubusercontent.com/47186083/56312198-94e33000-6147-11e9-9374-256411ad3811.png)
 ![image](https://user-images.githubusercontent.com/47186083/56312388-f0adb900-6147-11e9-80f7-d82de347d951.png)
 ![image](https://user-images.githubusercontent.com/47186083/56312551-44b89d80-6148-11e9-8cf0-fac7342988a8.png)
-![image](https://user-images.githubusercontent.com/47186083/56312422-002d0200-6148-11e9-8df7-2c7dcc520138.png)
-![image](https://user-images.githubusercontent.com/47186083/56312442-0ae79700-6148-11e9-9201-05f14a9753c1.png)
-
+![image](https://user-images.githubusercontent.com/47186083/56312551-44b89d80-6148-11e9-8cf0-fac7342988a8.png)
+![image](https://user-images.githubusercontent.com/47186083/56313183-e42a6000-6149-11e9-84f5-b2dad7d2a85b.png)
