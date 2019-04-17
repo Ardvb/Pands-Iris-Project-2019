@@ -133,9 +133,9 @@ When trying to distinguish between Iris versicolor and Iris virginica, we can sa
 
 ## References
 
-Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
-Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
-Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
+Setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
+Versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
+Virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
 https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
 https://www.geeksforgeeks.org/python-pandas-dataframe-mode/
 https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
