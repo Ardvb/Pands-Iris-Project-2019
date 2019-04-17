@@ -53,11 +53,11 @@ Now we can start looking into what some of the more interesting features of the 
 
 By using the _.median_ and _.mode_ commands, I am able to see what the median(the number that is halfway into the set) and the mode(most frequently occurring number).
 
-![image](https://user-images.githubusercontent.com/47186083/56308302-e1763d80-613e-11e9-8d34-25080d535d7b.png)
-![image](https://user-images.githubusercontent.com/47186083/56308312-eb983c00-613e-11e9-8410-928ffaf52bdd.png)
+![image](https://user-images.githubusercontent.com/47186083/56310565-205ac200-6144-11e9-9f1f-e74069197ae3.png)
+![image](https://user-images.githubusercontent.com/47186083/56310596-310b3800-6144-11e9-8ad5-46d73e3347c8.png)
 
-![image](https://user-images.githubusercontent.com/47186083/56308322-f357e080-613e-11e9-9032-a8f317597a0a.png)
-![image](https://user-images.githubusercontent.com/47186083/56308335-f9e65800-613e-11e9-91c5-043c36688957.png)
+![image](https://user-images.githubusercontent.com/47186083/56310641-4e400680-6144-11e9-8fde-742a08ce4192.png)
+
 
 ### The differences between the species
 
