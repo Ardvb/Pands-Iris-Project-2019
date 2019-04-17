@@ -84,7 +84,7 @@ However, to make it even easier to see, I have plotted some histograms and other
 
 ## Data visualization
 
-First I have plotted a histogram of the sepal length of all three species. With the sepal length in centimeters on the x-axis, and the frequency on the y-axis.
+First I have plotted a histogram of the sepal length of all three species using the matplotlib.pyplot library. With the sepal length in centimeters on the x-axis, and the frequency on the y-axis.
 
 ![image](https://user-images.githubusercontent.com/47186083/56308930-59913300-6140-11e9-924c-0b371f6c22c9.png)
 ![image](https://user-images.githubusercontent.com/47186083/56309064-b7257f80-6140-11e9-9047-aa38b5f36ac1.png)
@@ -98,7 +98,7 @@ I have also plotted histograms of the other features with virtually the same cod
 
 Here we can start to see clearly that especially the petal length and width of the Iris setosa is much shorter than the other two species.
 
-Another interesting and suitable way of visualizing if the swarmplot. With the swarmplot, you can tell the difference in the blink of an eye.
+Another interesting and suitable way of visualizing if the swarmplot, than can be created using the seaborn library. With the swarmplot, you can tell the difference in the blink of an eye.
 
 ![image](https://user-images.githubusercontent.com/47186083/56309335-4cc10f00-6141-11e9-8071-925c9314e7ce.png)
 
