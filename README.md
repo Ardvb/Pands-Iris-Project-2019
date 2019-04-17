@@ -102,6 +102,7 @@ Another interesting and suitable way of visualizing if the swarmplot.
 ![image](https://user-images.githubusercontent.com/47186083/56309335-4cc10f00-6141-11e9-8071-925c9314e7ce.png)
 
 ![image](https://user-images.githubusercontent.com/47186083/56309415-6f532800-6141-11e9-864d-84f9d16bdf00.png)
+And the other features:
 ![image](https://user-images.githubusercontent.com/47186083/56309442-7ed27100-6141-11e9-976c-92d4d5e148d5.png)
 ![image](https://user-images.githubusercontent.com/47186083/56309456-84c85200-6141-11e9-8782-4e006e7b7fa5.png)
 ![image](https://user-images.githubusercontent.com/47186083/56309473-8abe3300-6141-11e9-84b8-4b35191ff71f.png)
