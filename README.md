@@ -18,6 +18,7 @@ This repository contains my research on Fisher's Iris data set, as well as my do
 1. Make sure you have python installed on your device: https://www.python.org/downloads/
 
 
+
 ## 1. Background Information
 
 ### The Iris flower data set
@@ -41,9 +42,26 @@ No wonder it is one of the most used data sets in the world of statistics.
 
 ## 2. Analysis of Iris dataset
 
-### 2.1 Libraries
+### 2.1 Libraries used
 
+#### 2.1.1 Numpy
 
+Numpy is a fundamental library for scientific computing in Python. It adds support for large, multi dimensional arrays and matrices. It also includes a large collection of high level mathematical functions to operate on these arrays.
+
+#### 2.1.2 Matplotlib
+
+Matplotlib is the plotting library of Numpy. It provides an object-oriented API for embedding plots into applications.
+I used this library to plot histograms, amongst other things.
+
+#### 2.1.3 Seaborn
+
+Seaborn is a Python visualization library based on matplotlib, providing a high-level interface for drawing statistical graphics.
+I found this library to be easy to use and used it to plot swarmplots and scatterplots.
+
+#### 2.1.4 Pandas
+
+Pandas is a library providing high-performance, and easily usable data structures and data analysis tools for Python.
+I have used it to read in the excel file containing the Iris date set, amongst other things.
 
 I have written Python code to try and find some interesting information about this data set.
 In this readme I will show my code and the output it returns.
@@ -110,7 +128,7 @@ I have also plotted histograms of the other features with virtually the same cod
 
 Here we can start to see clearly that especially the petal length and width of the Iris setosa is much shorter than the other two species.
 
-Another interesting and suitable way of visualizing if the swarmplot, than can be created using seaborn. Seaborn is a Python visualization library based on matplotlib, providing a high-level interface for drawing statistical graphics. With the swarmplot, you can see the features of the different species in the blink of an eye.
+Another interesting and suitable way of visualizing if the swarmplot, than can be created using seaborn. Using the swarmplot, you can see the features of the different species in the blink of an eye.
 
 ![image](https://user-images.githubusercontent.com/47186083/56309335-4cc10f00-6141-11e9-8071-925c9314e7ce.png)
 
