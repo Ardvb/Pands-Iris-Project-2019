@@ -77,7 +77,7 @@ And the median and mode:
 ![image](https://user-images.githubusercontent.com/47186083/56311422-e38fca80-6145-11e9-911f-c847ecdec2bd.png)
 
 
-I have done the same for both other species.
+I have done the same for both other species. However, the differences between the species was even more pronounced in the following visualizations, so I haven't included all screenshots of mode and median here.
 
 From looking at this data, we can already spot some differences between the species. Especially between Iris setosa and the other two.
 However, to make it even easier to see, I have plotted some histograms and other plots.
