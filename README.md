@@ -40,7 +40,7 @@ The goal of the dataset, to discriminate between three species of Iris, based on
 Also, the fact someone as famous as Ronald Fisher used the dataset makes it more interesting to a lot of statisticians.
 No wonder it is one of the most used data sets in the world of statistics.
 
-## 2. Analysis of Iris Data Det
+## 2. Analysis of Iris data set
 
 ### 2.1 Libraries used
 
