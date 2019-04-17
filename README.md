@@ -2,6 +2,16 @@
 
 This repository contains my research on Fisher's Iris data set, as well as my documentation and code based on this research.
 
+## How to download the repository
+
+1. Go to my Github profile: https://github.com/Ardvb/
+2. Click on the download button and copy/paste the link: https://github.com/Ardvb/pands-problem-set
+
+## How to run the code:
+
+1. Make sure you have python installed on your device: https://www.python.org/downloads/
+
+
 ## The Iris flower data set
 
 This data set was collected by Edgar Anderson to quantify the morphologic variation of Iris flowers of three related species.
