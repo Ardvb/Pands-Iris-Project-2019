@@ -98,7 +98,7 @@ I have also plotted histograms of the other features with virtually the same cod
 
 Here we can start to see clearly that especially the petal length and width of the Iris setosa is much smaller (and shorter) than the other two species.
 
-Another interesting and suitable way of visualizing if the swarmplot.
+Another interesting and suitable way of visualizing if the swarmplot. With the swarmplot, you can tell the difference in the blink of an eye.
 
 ![image](https://user-images.githubusercontent.com/47186083/56309335-4cc10f00-6141-11e9-8071-925c9314e7ce.png)
 
@@ -114,4 +114,17 @@ As we can see, the setosa is clearly smaller than the other two species (except 
 
 ## Possible correlations
 
-To visualize possible correlations between features, I have used scatterplots.
+To further try to differentiate between virginica and versicolor, I have looked at possible correlations in any of the 4 measured features.
+To visualize these correlations, I have chosen to use the scatterplot. I have plotted all 6 possible correlations and attached screenshots of code and output below.
+
+![image](https://user-images.githubusercontent.com/47186083/56311850-d7f0d380-6146-11e9-8dd6-a82be70ec6ed.png)
+![image](https://user-images.githubusercontent.com/47186083/56312024-328a2f80-6147-11e9-995a-81264094ad7c.png)
+![image](https://user-images.githubusercontent.com/47186083/56312036-39b13d80-6147-11e9-8c8d-d8439990ee48.png)
+![image](https://user-images.githubusercontent.com/47186083/56312042-3f0e8800-6147-11e9-8633-bc568b16fbb2.png)
+![image](https://user-images.githubusercontent.com/47186083/56312056-45046900-6147-11e9-8128-ff2a7f92f4e4.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56312080-551c4880-6147-11e9-8dc4-13a45c4d31a3.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56312091-5baac000-6147-11e9-8c5e-4c3fc53dfb44.png)
+
+
