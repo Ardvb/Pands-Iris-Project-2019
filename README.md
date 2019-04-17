@@ -59,7 +59,6 @@ The iris data set consists of 50 samples each, of three iris species (Iris setos
 From every sample four features were measured: the length and width of both the sepals and petals, in centimetres.
 
 ![irises](https://user-images.githubusercontent.com/47186083/56307201-35335780-613c-11e9-8191-827eca81c80e.png)
-###### Source: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
 
 ![Ronald Fisher](https://user-images.githubusercontent.com/47186083/56324720-902e7400-6167-11e9-9ab9-881e84d8a6c2.jpg)
 
