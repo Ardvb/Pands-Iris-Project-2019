@@ -61,3 +61,15 @@ The next step was to seperate the species by only comparing the data from each s
 I wrote some simple code to only display the data of 'Iris setosa':
 
 ![image](https://user-images.githubusercontent.com/47186083/56308459-45990180-613f-11e9-9bd5-ef3284493405.png)
+![image](https://user-images.githubusercontent.com/47186083/56308523-65302a00-613f-11e9-8e94-eba6afca58df.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56308618-a7596b80-613f-11e9-977e-9296df0f1fc7.png)
+![image](https://user-images.githubusercontent.com/47186083/56308628-b0e2d380-613f-11e9-8286-06e8be911469.png)
+
+And the median and mode:
+
+![image](https://user-images.githubusercontent.com/47186083/56308675-cb1cb180-613f-11e9-8297-5184dde90a9f.png)
+![image](https://user-images.githubusercontent.com/47186083/56308692-d2dc5600-613f-11e9-809a-bbf1e0199b4f.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56308713-dc65be00-613f-11e9-8356-1b4d770d22c5.png)
+![image](https://user-images.githubusercontent.com/47186083/56308731-e38ccc00-613f-11e9-8c0d-2411083356a0.png)
