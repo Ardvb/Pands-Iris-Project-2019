@@ -34,6 +34,8 @@ No wonder it is one of the most used data sets in the world of statistics.
 ## My research
 
 I have written Python code to try and find some interesting information about this data set.
+In this readme I will show my code and the output it returns.
+
 First I wanted to get a good look at the data set by visualisizing some basic features.
 
 ![image](https://user-images.githubusercontent.com/47186083/56307904-d7077400-613d-11e9-8ab2-b6ba6d73b547.png)
@@ -73,3 +75,35 @@ And the median and mode:
 
 ![image](https://user-images.githubusercontent.com/47186083/56308713-dc65be00-613f-11e9-8356-1b4d770d22c5.png)
 ![image](https://user-images.githubusercontent.com/47186083/56308731-e38ccc00-613f-11e9-8c0d-2411083356a0.png)
+
+I have done the same for both other species.
+
+From looking at this data, we can already spot some differences between the species. Especially between Iris setosa and the other two.
+However, to make it even easier to see, I have plotted some histograms and other plots.
+
+## Data visualization
+
+First I have plotted a histogram of the sepal length of all three species. With the sepal length in centimeters on the x-axis, and the frequency on the y-axis.
+
+![image](https://user-images.githubusercontent.com/47186083/56308930-59913300-6140-11e9-924c-0b371f6c22c9.png)
+![image](https://user-images.githubusercontent.com/47186083/56309064-b7257f80-6140-11e9-9047-aa38b5f36ac1.png)
+
+
+I have also plotted histograms of the other features with virtually the same coding:
+
+![image](https://user-images.githubusercontent.com/47186083/56309125-d3292100-6140-11e9-9078-ff3e1afbf12e.png)
+![image](https://user-images.githubusercontent.com/47186083/56309163-e2a86a00-6140-11e9-9cbb-e8bbbf8f58ba.png)
+![image](https://user-images.githubusercontent.com/47186083/56309171-e76d1e00-6140-11e9-9b1e-01df2a5af9df.png)
+
+Here we can start to see clearly that especially the petal length and width of the Iris setosa is much smaller (and shorter) than the other two species.
+
+Another interesting and suitable way of visualizing if the swarmplot.
+
+![image](https://user-images.githubusercontent.com/47186083/56309335-4cc10f00-6141-11e9-8071-925c9314e7ce.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56309415-6f532800-6141-11e9-864d-84f9d16bdf00.png)
+![image](https://user-images.githubusercontent.com/47186083/56309442-7ed27100-6141-11e9-976c-92d4d5e148d5.png)
+![image](https://user-images.githubusercontent.com/47186083/56309456-84c85200-6141-11e9-8782-4e006e7b7fa5.png)
+![image](https://user-images.githubusercontent.com/47186083/56309473-8abe3300-6141-11e9-84b8-4b35191ff71f.png)
+
+
