@@ -118,13 +118,9 @@ To further try to differentiate between virginica and versicolor, I have looked 
 To visualize these correlations, I have chosen to use the scatterplot. I have plotted all 6 possible correlations and attached screenshots of code and output below.
 
 ![image](https://user-images.githubusercontent.com/47186083/56311850-d7f0d380-6146-11e9-8dd6-a82be70ec6ed.png)
-![image](https://user-images.githubusercontent.com/47186083/56312024-328a2f80-6147-11e9-995a-81264094ad7c.png)
-![image](https://user-images.githubusercontent.com/47186083/56312036-39b13d80-6147-11e9-8c8d-d8439990ee48.png)
-![image](https://user-images.githubusercontent.com/47186083/56312042-3f0e8800-6147-11e9-8633-bc568b16fbb2.png)
-![image](https://user-images.githubusercontent.com/47186083/56312056-45046900-6147-11e9-8128-ff2a7f92f4e4.png)
 
-![image](https://user-images.githubusercontent.com/47186083/56312080-551c4880-6147-11e9-8dc4-13a45c4d31a3.png)
+![image](https://user-images.githubusercontent.com/47186083/56312187-8dbc2200-6147-11e9-8600-034425152cd2.png)
+![image](https://user-images.githubusercontent.com/47186083/56312198-94e33000-6147-11e9-9374-256411ad3811.png)
 
-![image](https://user-images.githubusercontent.com/47186083/56312091-5baac000-6147-11e9-8c5e-4c3fc53dfb44.png)
 
 
