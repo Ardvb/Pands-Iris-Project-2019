@@ -40,7 +40,7 @@ First I wanted to get a good look at the data set by visualisizing some basic fe
 
 ![image](https://user-images.githubusercontent.com/47186083/56310182-28fec880-6143-11e9-8edc-210f58f89ab9.png)
 
-![image](https://user-images.githubusercontent.com/47186083/56307945-f1415200-613d-11e9-9929-1df4cd1d4d79.png)
+![image](https://user-images.githubusercontent.com/47186083/56310252-564b7680-6143-11e9-8ca4-2de350f58915.png)
 
 By reading the Iris data set Excel file into my program I am able to project in onto the screen using cmder. 
 
