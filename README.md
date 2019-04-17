@@ -20,13 +20,21 @@ This repository contains my research on Fisher's Iris data set, as well as my do
 ## Table of Contents
 
 1. Background information
+
 2. Analysis of Iris data set
+
   2.1 Libraries
+  
     2.1.1 Numpy
+    
     2.1.2 Matplotlib
+    
     2.1.3 Seaborn
+    
     2.1.4 Pandas
+    
   2.2 Coding and data visualization
+  
     2.2.1 Describe, median and mode
     2.2.2 Comparing the species
     2.2.3 Histograms
