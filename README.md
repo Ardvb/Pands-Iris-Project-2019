@@ -109,4 +109,8 @@ And the other features:
 ![image](https://user-images.githubusercontent.com/47186083/56309456-84c85200-6141-11e9-8782-4e006e7b7fa5.png)
 ![image](https://user-images.githubusercontent.com/47186083/56309473-8abe3300-6141-11e9-84b8-4b35191ff71f.png)
 
+As we can see, the setosa is clearly smaller than the other two species (except for the sepal width), and virginica is the tallest for 3 out of 4 features (sepal length, petal length and petal width). However, the difference between virginica and versicolor is not as pronounced as the difference between setosa and the other 2 species.
 
+## Possible correlations
+
+To visualize possible correlations between features, I have used scatterplots.
