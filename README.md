@@ -177,7 +177,7 @@ Here we can start to see clearly that especially the petal length and width of t
 
 #### 2.2.4 Swarmplots
 
-Another interesting and suitable way of visualizing if the swarmplot, than can be created using seaborn. Using the swarmplot, you can see the features of the different species in the blink of an eye.
+Another interesting and suitable way of visualizing is the swarmplot, than can be created using seaborn. Using the swarmplot, you can see the features of the different species in the blink of an eye.
 
 ![image](https://user-images.githubusercontent.com/47186083/56309335-4cc10f00-6141-11e9-8071-925c9314e7ce.png)
 
