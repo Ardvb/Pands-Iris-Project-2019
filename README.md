@@ -178,32 +178,32 @@ I learned a lot about visualizing data, and especially the seaborn library was a
 
 ## 5. References
 
-Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
+1. Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
 
-Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
+2. Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
 
-Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
+3. Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
 
-https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+4. https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
 
-https://www.geeksforgeeks.org/python-pandas-dataframe-mode/
+5. https://www.geeksforgeeks.org/python-pandas-dataframe-mode/
 
-https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
+6. https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
 
-https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+7. https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 
-Photo of 3 Iris flowers combined: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
+8. Photo of 3 Iris flowers combined: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
 
-https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
+9. https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
 
-https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+10. https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 
-https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+11. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 
-https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
+12. https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
 
-Videolecture Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
+13. Video lecture Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
 
-Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
+14. Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
 
 
