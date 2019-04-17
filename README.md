@@ -110,7 +110,8 @@ And the other features:
 ![image](https://user-images.githubusercontent.com/47186083/56309456-84c85200-6141-11e9-8782-4e006e7b7fa5.png)
 ![image](https://user-images.githubusercontent.com/47186083/56309473-8abe3300-6141-11e9-84b8-4b35191ff71f.png)
 
-As we can see, the setosa is clearly smaller than the other two species (except for the sepal width), and virginica is the largest for 3 out of 4 features (sepal length, petal length and petal width). However, the difference between virginica and versicolor is not as pronounced as the difference between setosa and the other 2 species.
+As we can see, the setosa is clearly smaller than the other two species (except for the sepal width), and virginica is the largest for 3 out of 4 features (sepal length, petal length and petal width). 
+The best way to try and distinguish the virginica from the versicolor, is by looking at petal length and petal width, which are larger. However, there is still some overlap and the difference is not as pronounced as that between between setosa and the other 2 species.
 
 ## Possible correlations
 
@@ -126,7 +127,9 @@ To visualize these correlations, I have chosen to use the scatterplot. I have pl
 ![image](https://user-images.githubusercontent.com/47186083/56313275-294e9200-614a-11e9-94fa-19f0ae1fd5c1.png)
 ![image](https://user-images.githubusercontent.com/47186083/56313183-e42a6000-6149-11e9-84f5-b2dad7d2a85b.png)
 
-Here we see some interesting things. For instance, looking at the correlation between sepal length and petal length, the Iris setosa has none or very little correlation, whereas the other two species both have a strong linear correlation. Something similar can be seen, to a slightly lesser extent, in all but one of the plots. Only in the sepal length and sepal width correlation does the Iris setosa have a linear correlation, where the other two species correlate in a linear way more or less in all 6 plots. Overall the Iris virginica seems to correlate in a slightly more linear way compared to the Iris versicolor, but this is not enough to clearly distinguish between the two.
+Here we see some interesting things. For instance, looking at the correlation between sepal length and petal length, the Iris setosa has none or very little correlation, whereas the other two species both have a strong linear correlation. Something similar can be seen, to a slightly lesser extent, in all but one of the plots. Only in the sepal length and sepal width correlation does the Iris setosa have a linear correlation, where the other two species correlate in a linear way more or less in all 6 plots.
+When looking at the correlation between petal length and petal width
+Overall the Iris virginica seems to correlate in a slightly more linear way compared to the Iris versicolor, but this is not enough to clearly distinguish between the two. 
 
 When trying to distinguish between Iris versicolor and Iris virginica, we can say that in general, 
 
