@@ -5,7 +5,7 @@ This repository contains my research on Fisher's Iris data set, as well as my do
 ## How to download the repository
 
 1. Go to my Github profile: https://github.com/Ardvb/
-2. Click on the download button and copy/paste the link: https://github.com/Ardvb/pands-problem-set
+2. Click on the download button and copy/paste the link: https://github.com/Ardvb/Pands-Iris-Project-2019
 
 ## How to run the code:
 
