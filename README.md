@@ -97,6 +97,7 @@ I found this library to be easy to use and used it to plot swarmplots and scatte
 #### 2.1.4 Pandas
 
 Pandas is a library providing high-performance, and easily usable data structures and data analysis tools for Python.
+It is built on top of Numpy, so that means Numpy is required by Pandas.
 I have used it to read in the excel file containing the Iris date set, amongst other things.
 
 
@@ -104,9 +105,8 @@ I have used it to read in the excel file containing the Iris date set, amongst o
 
 #### 2.2.1 describe, median and mode
 
-I have written Python code ([Iris_data_comparison_pandas.py]((https://github.com/Ardvb/Pands-Iris-Project-2019/blob/master/Iris_data_comparison_pandas.py)))
- to try and find some interesting information about this data set.
-In this readme I will show my code and the output it returns.
+I have written python code to try and find some interesting features of this data set.
+In this chapter I will show my code and the output it returns.
 
 First I wanted to get a good look at the data set by visualizing some basic features.
 
