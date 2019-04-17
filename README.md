@@ -173,7 +173,7 @@ Looking at all data, and data visualizations, I have used for this analysis, a f
 First of all, it is an interesting data set. To distinguish between the setosa and the other two species was easy, but to differentiate between virginica and versicolor was very challenging. Even though it is quite easy to see in the histograms, that the virginica has, in general, taller features than the versicolor species, there was some overlap.
 Therefore I tried to find a defining feature to seperate the two, by looking at correlations between the different features. Here I encountered the same phenomenon. A difference in size, but not definitive enough to tell which is which from the measurements alone.
 
-I learned a lot about visualizing data, and especially the seaborn library was a real eye-opener for me. Very easy to use and extremely good looking plots.
+I learned a lot about visualizing data, and especially the seaborn library was a real eye-opener for me. Very easy to split the data and produce good looking plots.
 
 
 ## 5. References
