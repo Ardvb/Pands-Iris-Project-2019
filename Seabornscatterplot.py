@@ -1,3 +1,5 @@
+# Ard van Balkom, 12-4-19
+# Plot scatterplots, using data of the Iris flower data set. 
 
 import seaborn as sns # I came across the Seaborn visualization library here: 
 # https://www.datacamp.com/community/tutorials/seaborn-python-tutorial

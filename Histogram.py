@@ -1,3 +1,6 @@
+# Ard van Balkom, 12-4-19
+# Plotting histograms of 4 features of 3 Iris flower species, using matplotlib.
+
 import matplotlib.pyplot as plt # Import matplotlib so we can plot functions.
 import pandas as pd
 
@@ -71,3 +74,5 @@ plt.legend() # Show the legend with the labels.
 plt.show()
 
 # Used: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html to learn about groupby function
+# Used: https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram to learn how to use labels and plot the legend
+# Used this videolecture by Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7 to learn more about pyplot

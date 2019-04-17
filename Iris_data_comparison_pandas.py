@@ -1,5 +1,5 @@
 # Ard van Balkom 11-4-19
-# Display data of the Iris flower data set, using Pandas
+# Display data of the Iris flower data set, using Pandas.
 
 import numpy as np 
 import pandas as pd 
