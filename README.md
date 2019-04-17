@@ -145,5 +145,7 @@ https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
 https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
+Videolecture Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
 Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
+
 
