@@ -57,12 +57,13 @@ By using the _.median_ and _.mode_ commands, I am able to see what the median(th
 ![image](https://user-images.githubusercontent.com/47186083/56310596-310b3800-6144-11e9-8ad5-46d73e3347c8.png)
 
 ![image](https://user-images.githubusercontent.com/47186083/56310641-4e400680-6144-11e9-8fde-742a08ce4192.png)
+![image](https://user-images.githubusercontent.com/47186083/56311063-08377280-6145-11e9-9bcc-cc65739adc8f.png)
 
 
 ### The differences between the species
 
 The next step was to seperate the species by only comparing the data from each species to the others.
-I wrote some simple code to only display the data of 'Iris setosa':
+I wrote some code to only display the data of 'Iris setosa':
 
 ![image](https://user-images.githubusercontent.com/47186083/56308459-45990180-613f-11e9-9bd5-ef3284493405.png)
 ![image](https://user-images.githubusercontent.com/47186083/56308523-65302a00-613f-11e9-8e94-eba6afca58df.png)
