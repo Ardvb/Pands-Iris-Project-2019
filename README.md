@@ -68,16 +68,14 @@ I wrote some code to only display the data of 'Iris setosa':
 ![image](https://user-images.githubusercontent.com/47186083/56311174-49c81d80-6145-11e9-8481-19aab85ee9db.png)
 ![image](https://user-images.githubusercontent.com/47186083/56311201-59dffd00-6145-11e9-9aa3-d0952774d727.png)
 
-![image](https://user-images.githubusercontent.com/47186083/56308618-a7596b80-613f-11e9-977e-9296df0f1fc7.png)
-![image](https://user-images.githubusercontent.com/47186083/56308628-b0e2d380-613f-11e9-8286-06e8be911469.png)
-
 And the median and mode:
 
-![image](https://user-images.githubusercontent.com/47186083/56308675-cb1cb180-613f-11e9-8297-5184dde90a9f.png)
-![image](https://user-images.githubusercontent.com/47186083/56308692-d2dc5600-613f-11e9-809a-bbf1e0199b4f.png)
+![image](https://user-images.githubusercontent.com/47186083/56311337-b04d3b80-6145-11e9-8bd8-917e02d3fffa.png)
+![image](https://user-images.githubusercontent.com/47186083/56311371-c5c26580-6145-11e9-9606-b5f62285dbaa.png)
 
-![image](https://user-images.githubusercontent.com/47186083/56308713-dc65be00-613f-11e9-8356-1b4d770d22c5.png)
-![image](https://user-images.githubusercontent.com/47186083/56308731-e38ccc00-613f-11e9-8c0d-2411083356a0.png)
+![image](https://user-images.githubusercontent.com/47186083/56311389-d4108180-6145-11e9-9584-f809802352a6.png)
+![image](https://user-images.githubusercontent.com/47186083/56311422-e38fca80-6145-11e9-911f-c847ecdec2bd.png)
+
 
 I have done the same for both other species.
 
