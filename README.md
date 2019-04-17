@@ -61,7 +61,8 @@ From every sample four features were measured: the length and width of both the 
 ![irises](https://user-images.githubusercontent.com/47186083/56307201-35335780-613c-11e9-8191-827eca81c80e.png)
 ###### Source: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
 
-![Ronald Fisher](https://user-images.githubusercontent.com/47186083/56324573-244c0b80-6167-11e9-8c4f-01ef373280b7.jpg)
+![Ronald Fisher](https://user-images.githubusercontent.com/47186083/56324720-902e7400-6167-11e9-9ab9-881e84d8a6c2.jpg)
+
 
 British statistician and biologist Ronald Fisher used this dataset to develop a linear discriminant model to distinguish the species from each other.
 Ronald Fisher is one of the most celebrated statisticians of all time. 
