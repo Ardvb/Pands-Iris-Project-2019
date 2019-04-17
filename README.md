@@ -61,6 +61,8 @@ From every sample four features were measured: the length and width of both the 
 ![irises](https://user-images.githubusercontent.com/47186083/56307201-35335780-613c-11e9-8191-827eca81c80e.png)
 ###### Source: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
 
+![Ronald Fisher](https://user-images.githubusercontent.com/47186083/56324573-244c0b80-6167-11e9-8c4f-01ef373280b7.jpg)
+
 British statistician and biologist Ronald Fisher used this dataset to develop a linear discriminant model to distinguish the species from each other.
 Ronald Fisher is one of the most celebrated statisticians of all time. 
 He is described as “a genius who almost single-handedly created the foundations for modern statistical science”.
@@ -214,32 +216,37 @@ I learned a lot about visualizing data, and especially the seaborn library was a
 
 ## 4. References
 
-1. Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
 
-2. Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
+1. https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
 
-3. Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
+2. https://www.geeksforgeeks.org/python-pandas-dataframe-mode/
 
-4. https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+3. https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
 
-5. https://www.geeksforgeeks.org/python-pandas-dataframe-mode/
+4. https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 
-6. https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
+5. https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
 
-7. https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+6. https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 
-8. Photo of 3 Iris flowers combined: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
+7. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 
-9. https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
+8. https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
 
-10. https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+9. Video lecture Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
 
-11. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+10. Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
 
-12. https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
+### Photos:
 
-13. Video lecture Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
+11. Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
 
-14. Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
+12. Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
+
+13. Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
+
+14. Photo of 3 Iris flowers combined: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
+
+15. Ronald Fisher photo: http://www.genetics.org/content/genetics/154/4/1419/F1.large.jpg?width=800&height=600&carousel=1
 
 
