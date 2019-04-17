@@ -98,9 +98,9 @@ Pandas is a library providing high-performance, and easily usable data structure
 I have used it to read in the excel file containing the Iris date set, amongst other things.
 
 
-## 2.2 Coding and data visualization
+### 2.2 Coding and data visualization
 
-### 2.2.1 describe, median and mode
+#### 2.2.1 describe, median and mode
 
 I have written Python code to try and find some interesting information about this data set.
 In this readme I will show my code and the output it returns.
@@ -129,7 +129,7 @@ By using the _.median_ and _.mode_ commands, I am able to see what the median(th
 ![image](https://user-images.githubusercontent.com/47186083/56311063-08377280-6145-11e9-9bcc-cc65739adc8f.png)
 
 
-### 2.2.2 Comparing the species
+#### 2.2.2 Comparing the species
 
 The next step was to seperate the species by comparing the data from each species to the others.
 I wrote some code to only display the data of 'Iris setosa':
@@ -152,7 +152,7 @@ From looking at this data, we can already spot some differences between the spec
 However, to make it even easier to see, I have plotted some histograms and other plots.
 
 
-### 2.2.3 Histograms
+#### 2.2.3 Histograms
 
 First I have plotted a histogram of the sepal length of all three species using the matplotlib.pyplot library. With the sepal length in centimeters on the x-axis, and the frequency on the y-axis.
 
@@ -169,7 +169,7 @@ I have also plotted histograms of the other features with virtually the same cod
 Here we can start to see clearly that especially the petal length and width of the Iris setosa is much shorter than the other two species.
 
 
-### 2.2.4 Swarmplots
+#### 2.2.4 Swarmplots
 
 Another interesting and suitable way of visualizing if the swarmplot, than can be created using seaborn. Using the swarmplot, you can see the features of the different species in the blink of an eye.
 
@@ -187,7 +187,7 @@ As we can see, the setosa is clearly smaller than the other two species (except 
 The best way to try and distinguish the virginica from the versicolor, is by looking at petal length and petal width, which are larger. However, there is still some overlap and the difference is not as pronounced as that between between setosa and the other 2 species.
 
 
-### 2.2.5 Possible correlations, visualized in scatterplots
+#### 2.2.5 Possible correlations, visualized in scatterplots
 
 To further try to differentiate between virginica and versicolor, I have looked at possible correlations in any of the 4 measured features.
 To visualize these correlations, I have chosen to use the scatterplot. I have plotted all 6 possible correlations and attached screenshots of code and output below.
