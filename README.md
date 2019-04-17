@@ -22,6 +22,7 @@ This repository contains my research on Fisher's Iris data set, as well as my do
 1. Background information
 
 2. Analysis of Iris data set
+  
   2.1 Libraries
     
     2.1.1 Numpy
