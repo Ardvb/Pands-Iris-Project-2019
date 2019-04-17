@@ -46,8 +46,10 @@ By reading the Iris data set Excel file into my program I am able to project in 
 
 Now we can start looking into what some of the more interesting features of the data set. By using the _.describe_ command, I can see lots of useful information, such as the mean, the standard deviation, the minimum and maximum etc.
 
-![image](https://user-images.githubusercontent.com/47186083/56308155-79bff280-613e-11e9-9fee-c7298f2e96c3.png)
-![image](https://user-images.githubusercontent.com/47186083/56308155-79bff280-613e-11e9-9fee-c7298f2e96c3.png)
+
+![image](https://user-images.githubusercontent.com/47186083/56310349-9dd20280-6143-11e9-85b8-de1e17f8b4e5.png)
+![image](https://user-images.githubusercontent.com/47186083/56310392-b17d6900-6143-11e9-9662-068cbbd72524.png)
+
 
 By using the _.median_ and _.mode_ commands, I am able to see what the median(the number that is halfway into the set) and the mode(most frequently occurring number).
 
