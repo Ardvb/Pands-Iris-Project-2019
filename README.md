@@ -167,9 +167,13 @@ Here we see some interesting things. For instance, looking at the correlation be
 When looking at the correlation between petal length and petal width
 Overall the Iris virginica seems to correlate in a slightly more linear way compared to the Iris versicolor, but this is not enough to clearly distinguish between the two. 
 
-## 4. Conclusion and Summary
+## 4. Conclusions and summary
 
-When trying to distinguish between Iris versicolor and Iris virginica, we can say that in general, 
+Looking at all data, and data visualizations, I have used for this analysis, a few conclusions can be drawn.
+First of all, it is an interesting data set. To distinguish between the setosa and the other two species was easy, but to differentiate between virginica and versicolor was very challenging. Even though it is quite easy to see in the histograms, that the virginica has, in general, taller features than the versicolor species, there was some overlap.
+Therefore I tried to find a defining feature to seperate the two, by looking at correlations between the different features. Here I encountered the same phenomenon. A difference in size, but not definitive enough to tell which is which from the measurements alone.
+
+I learned a lot about visualizing data, and especially the seaborn library was a real eye-opener for me. Very easy to use and extremely good looking plots.
 
 
 ## 5. References
