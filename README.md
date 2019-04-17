@@ -129,3 +129,21 @@ To visualize these correlations, I have chosen to use the scatterplot. I have pl
 Here we see some interesting things. For instance, looking at the correlation between sepal length and petal length, the Iris setosa has none or very little correlation, whereas the other two species both have a strong linear correlation. Something similar can be seen in all but one of the plots. Only in the sepal length and sepal width correlation does the Iris setosa have a linear correlation, where the other two species correlate in a linear way more or less in all 6 plots. Overall the Iris virginica seems to correlate in a slightly more linear way compared to the Iris versicolor, but this is not enough to clearly distinguish between the two.
 
 When trying to distinguish between Iris versicolor and Iris virginica, we can say that in general, 
+
+
+## References
+
+Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
+Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
+Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
+https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
+https://www.geeksforgeeks.org/python-pandas-dataframe-mode/
+https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
+https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+Photo of 3 Iris flowers combines: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
+https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
+https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
+Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
+
