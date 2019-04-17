@@ -55,6 +55,7 @@ This repository contains my research on Fisher's Iris data set, as well as my do
 
 ![irises](https://user-images.githubusercontent.com/47186083/56307201-35335780-613c-11e9-8191-827eca81c80e.png)
 
+
 This data set was collected by Edgar Anderson to quantify the morphologic variation of Iris flowers of three related species.
 Two of the species were collected from the same pasture, on the same day, and measured at the same time by the same person with the same apparatus.
 The iris data set consists of 50 samples each, of three iris species (Iris setosa, Iris virginica and Iris versicolor). 
@@ -63,6 +64,7 @@ From every sample four features were measured: the length and width of both the 
 
 ![Ronald Fisher](https://user-images.githubusercontent.com/47186083/56324720-902e7400-6167-11e9-9ab9-881e84d8a6c2.jpg)
 
+Ronald Fisher
 
 British statistician and biologist Ronald Fisher used this dataset to develop a linear discriminant model to distinguish the species from each other.
 Ronald Fisher is one of the most celebrated statisticians of all time. 
