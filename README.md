@@ -126,7 +126,7 @@ Now we can start looking into some of the more interesting features of the data 
 ![image](https://user-images.githubusercontent.com/47186083/56310392-b17d6900-6143-11e9-9662-068cbbd72524.png)
 
 
-By using the _.median_ and _.mode_ commands, I am able to see what the median(the number that is halfway into the set) and the mode(most frequently occurring number).
+By using the _.median_ and _.mode_ commands, I am able to see what the median(the number that is halfway into the set) and the mode(most frequently occurring number) is.
 
 ![image](https://user-images.githubusercontent.com/47186083/56310565-205ac200-6144-11e9-9f1f-e74069197ae3.png)
 ![image](https://user-images.githubusercontent.com/47186083/56310596-310b3800-6144-11e9-8ad5-46d73e3347c8.png)
