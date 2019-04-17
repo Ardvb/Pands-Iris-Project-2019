@@ -38,6 +38,7 @@ In this readme I will show my code and the output it returns.
 
 First I wanted to get a good look at the data set by visualisizing some basic features.
 
+![image](https://user-images.githubusercontent.com/47186083/56310090-dfae7900-6142-11e9-8e3d-ec1f8d5f5e0d.png)
 ![image](https://user-images.githubusercontent.com/47186083/56307904-d7077400-613d-11e9-8ab2-b6ba6d73b547.png)
 
 ![image](https://user-images.githubusercontent.com/47186083/56307945-f1415200-613d-11e9-9929-1df4cd1d4d79.png)
