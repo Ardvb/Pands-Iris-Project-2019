@@ -17,9 +17,25 @@ This repository contains my research on Fisher's Iris data set, as well as my do
 
 1. Make sure you have python installed on your device: https://www.python.org/downloads/
 
+## Table of Contents
 
+1. Background information
+2. Analysis of Iris data set
+  2.1 Libraries
+    2.1.1 Numpy
+    2.1.2 Matplotlib
+    2.1.3 Seaborn
+    2.1.4 Pandas
+  2.2 Coding and data visualization
+    2.2.1 Describe, median and mode
+    2.2.2 Comparing the species
+    2.2.3 Histograms
+    2.2.4 Swarmplots
+    2.2.5 Possible correlations, visualized in scatterplots
+ 3. Conclusions
+ 4. References
 
-## 1. Background Information
+## 1. Background information
 
 ### The Iris flower data set
 
@@ -65,9 +81,9 @@ Pandas is a library providing high-performance, and easily usable data structure
 I have used it to read in the excel file containing the Iris date set, amongst other things.
 
 
-## 3. Coding and data visualization
+## 2.2 Coding and data visualization
 
-### 3.1.1 describe, median and mode
+### 2.2.1 describe, median and mode
 
 I have written Python code to try and find some interesting information about this data set.
 In this readme I will show my code and the output it returns.
@@ -96,7 +112,7 @@ By using the _.median_ and _.mode_ commands, I am able to see what the median(th
 ![image](https://user-images.githubusercontent.com/47186083/56311063-08377280-6145-11e9-9bcc-cc65739adc8f.png)
 
 
-### 3.1.2 The differences between the species
+### 2.2.2 Comparing the species
 
 The next step was to seperate the species by comparing the data from each species to the others.
 I wrote some code to only display the data of 'Iris setosa':
@@ -119,7 +135,7 @@ From looking at this data, we can already spot some differences between the spec
 However, to make it even easier to see, I have plotted some histograms and other plots.
 
 
-### 3.2.1 Histograms
+### 2.2.3 Histograms
 
 First I have plotted a histogram of the sepal length of all three species using the matplotlib.pyplot library. With the sepal length in centimeters on the x-axis, and the frequency on the y-axis.
 
@@ -136,7 +152,7 @@ I have also plotted histograms of the other features with virtually the same cod
 Here we can start to see clearly that especially the petal length and width of the Iris setosa is much shorter than the other two species.
 
 
-### 3.2.2 Swarmplots
+### 2.2.4 Swarmplots
 
 Another interesting and suitable way of visualizing if the swarmplot, than can be created using seaborn. Using the swarmplot, you can see the features of the different species in the blink of an eye.
 
@@ -154,7 +170,7 @@ As we can see, the setosa is clearly smaller than the other two species (except 
 The best way to try and distinguish the virginica from the versicolor, is by looking at petal length and petal width, which are larger. However, there is still some overlap and the difference is not as pronounced as that between between setosa and the other 2 species.
 
 
-### 3.2.3 Possible correlations, visualized in scatterplots
+### 2.2.5 Possible correlations, visualized in scatterplots
 
 To further try to differentiate between virginica and versicolor, I have looked at possible correlations in any of the 4 measured features.
 To visualize these correlations, I have chosen to use the scatterplot. I have plotted all 6 possible correlations and attached screenshots of code and output below.
@@ -173,7 +189,7 @@ When looking at the correlation between petal length and petal width
 Overall the Iris virginica seems to correlate in a slightly more linear way compared to the Iris versicolor, but this is not enough to clearly distinguish between the two. 
 
 
-## 4. Conclusions and summary
+## 3. Conclusions and summary
 
 Looking at all data, and data visualizations, I have used for this analysis, a few conclusions can be drawn.
 First of all, it is an interesting data set. To distinguish between the setosa and the other two species was easy, but to differentiate between virginica and versicolor was very challenging. Even though it is quite easy to see in the histograms, that the virginica has, in general, taller features than the versicolor species, there was some overlap.
@@ -182,7 +198,7 @@ Therefore I tried to find a defining feature to seperate the two, by looking at 
 I learned a lot about visualizing data, and especially the seaborn library was a real eye-opener for me. Very easy to split the data and produce good looking plots.
 
 
-## 5. References
+## 4. References
 
 1. Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
 
