@@ -104,7 +104,8 @@ I have used it to read in the excel file containing the Iris date set, amongst o
 
 #### 2.2.1 describe, median and mode
 
-I have written Python code to try and find some interesting information about this data set.
+I have written Python code [Iris_data_comparison_pandas.py]((https://github.com/Ardvb/Pands-Iris-Project-2019/blob/master/Iris_data_comparison_pandas.py))
+ to try and find some interesting information about this data set.
 In this readme I will show my code and the output it returns.
 
 First I wanted to get a good look at the data set by visualizing some basic features.
