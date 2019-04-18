@@ -16,7 +16,7 @@ plt.show()
 sns.scatterplot(x=iris.sepal_length, y=iris.petal_length, hue=iris.species) # Do the same for the correlation between sepal length and petal length.
 plt.show()
 
-sns.scatterplot(x=iris.sepal_length, y=iris.petal_width, hue=iris.species) # Do the same for other possible correlations
+sns.scatterplot(x=iris.sepal_length, y=iris.petal_width, hue=iris.species) # Do the same for other possible correlations.
 plt.show()
 
 sns.scatterplot(x=iris.sepal_width, y=iris.petal_length, hue=iris.species)
