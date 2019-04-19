@@ -162,7 +162,7 @@ However, to make it even easier to see, I have plotted some histograms and other
 
 First I have plotted a histogram of the sepal length of all three species using the matplotlib.pyplot library. With the sepal length in centimeters on the x-axis, and the frequency on the y-axis.
 
-![image](https://user-images.githubusercontent.com/47186083/56308930-59913300-6140-11e9-924c-0b371f6c22c9.png)
+![image](https://user-images.githubusercontent.com/47186083/56399432-cb06d980-6245-11e9-8695-23d55f589747.png)
 ![image](https://user-images.githubusercontent.com/47186083/56309064-b7257f80-6140-11e9-9047-aa38b5f36ac1.png)
 
 
