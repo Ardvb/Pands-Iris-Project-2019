@@ -124,6 +124,8 @@ In this chapter I will show my code and the output it returns.
 First I want to get a good look at the data set by visualizing some basic features.
 
 ![image](https://user-images.githubusercontent.com/47186083/56400221-96495100-624a-11e9-872c-006b18427cb5.png)
+
+
 ![image](https://user-images.githubusercontent.com/47186083/56310252-564b7680-6143-11e9-8ca4-2de350f58915.png)
 
 The total data set, consisting of 150 flowers is now displayed. I have cut the screenshot short to keep this readme compact.
