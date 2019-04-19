@@ -111,7 +111,7 @@ First I want to check if this dataset is complete and if my downloaded version h
 ![image](https://user-images.githubusercontent.com/47186083/56399819-3782d800-6248-11e9-8554-1e936814d693.png)
 
 I now know that there are indeed four features measured, and each of them has a total of 150 measurements.
-Now, I want to make sure the dataset contains exactly 50 flowers for every species.
+Next I want to make sure the dataset contains exactly 50 flowers for every species.
 
 ![image](https://user-images.githubusercontent.com/47186083/56399855-76b12900-6248-11e9-8bbf-9bd69ed9741d.png)
 ![image](https://user-images.githubusercontent.com/47186083/56399867-83358180-6248-11e9-8a85-45dde48d656e.png)
