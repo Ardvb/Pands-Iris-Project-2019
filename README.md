@@ -107,7 +107,7 @@ I have used it to read in the excel file containing the Iris date set, amongst o
 
 First I want to check if this dataset is complete and if my downloaded version has no gaps.
 
-![image](https://user-images.githubusercontent.com/47186083/56399752-ee328880-6247-11e9-8eea-a529ead347df.png)
+![image](https://user-images.githubusercontent.com/47186083/56400204-7023b100-624a-11e9-9f63-0f19b52ee3b1.png)
 ![image](https://user-images.githubusercontent.com/47186083/56399819-3782d800-6248-11e9-8554-1e936814d693.png)
 
 I now know that there are indeed four features measured, and each of them has a total of 150 measurements.
