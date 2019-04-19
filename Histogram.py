@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt # Import matplotlib so we can plot functions.
 import pandas as pd
 
 
-ifds = pd.read_excel("iris.xls", usecols = 4) # read in the excel file 'iris'. Use only first 5 columns.
+ifds = pd.read_excel("iris.xls", usecols = 4) # Read in the excel file 'iris'. Use only first 5 columns.
 
 
 ifds_groupby = ifds.groupby(["Species"]) # Group the species of iris to use the data of each species separately.
