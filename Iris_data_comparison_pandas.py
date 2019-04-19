@@ -8,14 +8,14 @@ ifds = pd.read_excel("iris.xls", usecols=4) # Read the file 'ifds' into the prog
 
 print()
 print("Total measurements per feature:") # Print an empty line, to make it look more presentable
-print(ifds.count())
+print(ifds.count()) # Show the total for each column in the excel file
 print()
 print("Total measurements per species:")
-print(pd.value_counts(ifds["Species"].values))
+print(pd.value_counts(ifds["Species"].values)) # Show the total amount of flowers measured for each of the species.
 print()
 # Learned how to do this at: https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
 print(ifds)
-# by entering print(ifds), we are now able to print the entire table of data.
+# By entering print(ifds), we are now able to print the entire table of data.
 
 print()
 print(round(ifds.describe(),2)) # This displays a quick summary of the data (mean, min and max amongst others). Round it to 2 decimals, because it looks better.
