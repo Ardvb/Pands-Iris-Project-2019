@@ -6,6 +6,13 @@ import pandas as pd
 
 ifds = pd.read_excel("iris.xls", usecols=4) # Read the file 'ifds' into the program and only use columns 0-4.
 
+print()
+print("Total measurements per feature:") # Print an empty line, to make it look more presentable
+print(ifds.count())
+print()
+print("Total measurements per species:")
+print(pd.value_counts(ifds["Species"].values))
+print()
 # Learned how to do this at: https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
 print(ifds)
 # by entering print(ifds), we are now able to print the entire table of data.
