@@ -240,30 +240,32 @@ I learned a lot about analyzing and visualizing data, and especially the seaborn
 
 3. https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
 
-4. https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
+4. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
 
-5. https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
+5. https://www.datacamp.com/community/tutorials/seaborn-python-tutorial
 
-6. https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+6. https://seaborn.pydata.org/tutorial/relational.html#relational-tutorial
 
-7. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
+7. https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 
-8. https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
+8. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
 
-9. Video lecture Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
+9. https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram
 
-10. Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
+10. Video lecture Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7
+
+11. Data set downloaded from: www.saedsayad.com/datasets/Iris.xls
 
 ### Photos:
 
-11. Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
+12. Iris setosa photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Kosaciec_szczecinkowaty_Iris_setosa.jpg
 
-12. Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
+13. Iris versicolor photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_versicolor_3.jpg
 
-13. Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
+14. Iris virginica photo: https://en.wikipedia.org/wiki/Iris_flower_data_set#/media/File:Iris_virginica.jpg
 
-14. Photo of 3 Iris flowers combined: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
+15. Photo of 3 Iris flowers combined: https://www.kaggle.com/anthonyhills/classifying-species-of-iris-flowers
 
-15. Ronald Fisher photo: http://www.genetics.org/content/genetics/154/4/1419/F1.large.jpg?width=800&height=600&carousel=1
+16. Ronald Fisher photo: http://www.genetics.org/content/genetics/154/4/1419/F1.large.jpg?width=800&height=600&carousel=1
 
 
