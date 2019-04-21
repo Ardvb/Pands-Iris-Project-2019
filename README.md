@@ -105,9 +105,9 @@ I have used it to read in the excel file containing the Iris date set, amongst o
 
 #### 2.2.1 Check dataset, describe, median and mode
 
-First I want to check if this dataset is complete and if my downloaded version has no gaps.
+First I want to read in the excel file containing the dataset, using pd.read, and check if the dataset is complete and if my downloaded version has no gaps.
 
-![image](https://user-images.githubusercontent.com/47186083/56399752-ee328880-6247-11e9-8eea-a529ead347df.png)
+![image](https://user-images.githubusercontent.com/47186083/56400204-7023b100-624a-11e9-9f63-0f19b52ee3b1.png)
 ![image](https://user-images.githubusercontent.com/47186083/56399819-3782d800-6248-11e9-8554-1e936814d693.png)
 
 I now know that there are indeed four features measured, and each of them has a total of 150 measurements.
@@ -121,16 +121,14 @@ The amounts are exactly what they should be, so it is now time to have a closer 
 I have written python code to try and find some interesting features of this data set.
 In this chapter I will show my code and the output it returns.
 
-First I wanted to get a good look at the data set by visualizing some basic features.
+First I want to get a good look at the data set by visualizing some basic features.
 
-![image](https://user-images.githubusercontent.com/47186083/56310182-28fec880-6143-11e9-8edc-210f58f89ab9.png)
+![image](https://user-images.githubusercontent.com/47186083/56400221-96495100-624a-11e9-872c-006b18427cb5.png)
+
 
 ![image](https://user-images.githubusercontent.com/47186083/56310252-564b7680-6143-11e9-8ca4-2de350f58915.png)
 
 The total data set, consisting of 150 flowers is now displayed. I have cut the screenshot short to keep this readme compact.
-
-
-By reading the Iris data set Excel file into my program I am able to project in onto the screen using cmder. 
 
 Now we can start looking into some of the more interesting features of the data set. By using the _.describe_ command, I can see lots of useful information, such as the mean, the standard deviation, the minimum and maximum etc.
 
