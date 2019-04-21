@@ -12,6 +12,7 @@ print(ifds.count()) # Show the total for each column in the excel file
 print()
 print("Total measurements per species:")
 print(pd.value_counts(ifds["Species"].values)) # Show the total amount of flowers measured for each of the species.
+# Learned about this feature here: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.value_counts.html
 print()
 # Learned how to do this at: https://pandas.pydata.org/pandas-docs/stable/user_guide/io.html#io-excel
 print(ifds)
