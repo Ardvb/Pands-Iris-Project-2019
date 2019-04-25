@@ -10,9 +10,9 @@ ifds = pd.read_excel("iris.xls", usecols = 4) # Read in the excel file 'iris'. U
 
 ifds_groupby = ifds.groupby(["Species"]) # Group the species of iris to use the data of each species separately.
 
-setosa = ifds_groupby.get_group("Iris-setosa") # use 'setosa' for all iris species that are called 'Iris-setosa' in the excel file.
-versicolor = ifds_groupby.get_group("Iris-versicolor") # use 'versicolor' for all iris species that are called 'Iris-versicolor' in the excel file.
-virginica = ifds_groupby.get_group("Iris-virginica") # use 'virginica' for all iris species that are called 'Iris-virginica' in the excel file.
+setosa = ifds_groupby.get_group("Iris-setosa") # Use 'setosa' for all iris species that are called 'Iris-setosa' in the excel file.
+versicolor = ifds_groupby.get_group("Iris-versicolor") # Use 'versicolor' for all iris species that are called 'Iris-versicolor' in the excel file.
+virginica = ifds_groupby.get_group("Iris-virginica") # Use 'virginica' for all iris species that are called 'Iris-virginica' in the excel file.
 
 
 feature = "sepal length" # Only data from the "sepal length" column will be used for this histogram.
@@ -75,4 +75,4 @@ plt.show()
 
 # Used: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html to learn about groupby function
 # Used: https://stackoverflow.com/questions/41213346/python-matplotlib-label-in-histogram to learn how to use labels and plot the legend
-# Used this videolecture by Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7 to learn more about pyplot
+# Used this video lecture by Ian McLoughlin: https://web.microsoftstream.com/video/f0788c1c-c7bd-4347-98ac-477186938ed7 to learn more about pyplot

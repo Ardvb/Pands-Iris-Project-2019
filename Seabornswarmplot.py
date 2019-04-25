@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 iris = sns.load_dataset("iris")
 
 # Built the swarmplot:
-sns.swarmplot(x="species", y="petal_width", data=iris) #By changing y to 'petal_length', 'sepal_length', or 'sepal_width', those will be plotted. 
+sns.swarmplot(x="species", y="petal_width", data=iris) # By changing y to 'petal_length', 'sepal_length', or 'sepal_width', those will be plotted. 
 # Screenshots of the other 3 swarmplots can be found seperately in the repository, as well as in the readme file: https://github.com/Ardvb/Pands-Iris-Project-2019/blob/master/README.md
 # I have plotted them and attached the plots in separate files.
 
